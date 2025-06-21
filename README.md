@@ -8,9 +8,9 @@
 
 - 🔭 I’m available for working as a **Software Engineer 💻** | **Backend Developer 🖥**  .
 
-- 🌱 I’m currently learning **Advanced System Design**.
+- 🌱 I’m currently learning **Event Driven Architecture**.
 
-- 👨‍💻 Most of my projects are available at **[My Repositories](https://github.com/QusaiAlbonni?page=1&tab=repositories)**.
+- 👨‍💻 Most of my open source projects are available at **[My Repositories](https://github.com/QusaiAlbonni?page=1&tab=repositories)**.
 
 <br>
 <div align="center">
@@ -19,7 +19,7 @@
 
 ## 🚀 Languages and Tools:
 <div >
-    <img src="https://skillicons.dev/icons?i=django,python,aws,postgres,mysql,laravel,cpp,java,html,css,js,ts,git,github,vscode,postman,unity,cs" />
+    <img src="https://skillicons.dev/icons?i=nestjs,nodejs,redis,django,python,aws,postgres,mysql,laravel,cpp,java,html,css,js,ts,threejs,git,github,vscode,postman,unity,cs" />
 </div>
 
 <div align="center">
